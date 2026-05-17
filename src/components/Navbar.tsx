@@ -103,8 +103,8 @@ const Navbar = () => {
           icon: Calendar,
         },
         {
-          to: "/messages",
-          label: "Messages",
+          to: "/chat",
+          label: "Chat",
           icon: MessageCircle,
         },
         {
